@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.2150ac5d.css",
+    "main.js": "/portfolio/static/js/main.236d860d.js",
+    "static/media/thumb-fullstack-socialmedia-app-react-sanity.png": "/portfolio/static/media/thumb-fullstack-socialmedia-app-react-sanity.44fcc444cec6e5975eda.png",
+    "static/media/thumb-pinterest-clone-reactjs.png": "/portfolio/static/media/thumb-pinterest-clone-reactjs.28b7219fa6592c8cb72e.png",
+    "static/media/thumb-google-map-clone-nextjs-feb22.png": "/portfolio/static/media/thumb-google-map-clone-nextjs-feb22.200845be6c176fdf46e1.png",
+    "static/media/thumb-videoblog-firebase-reactjs-feb-22.png": "/portfolio/static/media/thumb-videoblog-firebase-reactjs-feb-22.953c6b52ecd9887695db.png",
+    "static/media/Ruijia.jpg": "/portfolio/static/media/Ruijia.cab6050323552bf104fd.jpg",
+    "static/media/thumb-fooddeliveryapp-reactjs-dec.png": "/portfolio/static/media/thumb-fooddeliveryapp-reactjs-dec.fd65990a923e0e9a8e30.png",
+    "static/media/thumb-whatsappui-clone-nextjs.png": "/portfolio/static/media/thumb-whatsappui-clone-nextjs.8a57832933683cf42666.png",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.6e5c1a5a049e3a49464e.pdf",
+    "index.html": "/portfolio/index.html",
+    "main.2150ac5d.css.map": "/portfolio/static/css/main.2150ac5d.css.map",
+    "main.236d860d.js.map": "/portfolio/static/js/main.236d860d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2150ac5d.css",
+    "static/js/main.236d860d.js"
+  ]
+}
